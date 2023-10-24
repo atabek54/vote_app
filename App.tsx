@@ -19,7 +19,7 @@ function App(): JSX.Element {
   };
   const imageUrl =
     showMessage === 'Oy kullanabilirsiniz'
-      ? 'https://upload.wikimedia.org/wikipedia/commons/5/50/Smile_Image.png'
+      ? 'https://upload.wikimedia.orgj/wikipedia/commons/5/50/Smile_Image.png'
       : 'https://static-00.iconduck.com/assets.00/emoji-sad-icon-1024x1024-t873gdf3.png';
   const handleButtonPress = () => {
     // Yaş (age) değerini kullanmak için burada kullanabilirsiniz
